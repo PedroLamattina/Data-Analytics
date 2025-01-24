@@ -124,7 +124,9 @@ Developed a **Python**-based analytical pipeline to analyze sales data from shop
 ## **Contact**  
 If you'd like to discuss my work or collaborate on a project, feel free to reach out!  
 - **Email:** [pedrolamattina@gmail.com] 
-- **LinkedIn:** [www.linkedin.com/in/pedro-lamattina](<a href="[https://www.linkedin.com/in/pedro-lamattina/]" target="_blank">Your LinkedIn Profile</a>)   
+- **LinkedIn:** [www.linkedin.com/in/pedro-lamattina](https://www.linkedin.com/in/pedro-lamattina/)
+
+- <a href="[https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/pedro-lamattina/)" target="_blank">Your LinkedIn Profile</a>   
 
 ---
 
