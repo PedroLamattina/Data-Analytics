@@ -126,9 +126,6 @@ If you'd like to discuss my work or collaborate on a project, feel free to reach
 - **Email:** [pedrolamattina@gmail.com] 
 - **LinkedIn:** [www.linkedin.com/in/pedro-lamattina](https://www.linkedin.com/in/pedro-lamattina/)
 
-- <a href="[https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/pedro-lamattina/)" target="_blank">Your LinkedIn Profile</a>   
-
-- **LinkedIn:** <a href="https://www.linkedin.com/in/pedro-lamattina/" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/pedro-lamattina</a>
 ---
 
 Thank you for visiting my portfolio! 😊  
