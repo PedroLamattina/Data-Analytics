@@ -78,7 +78,7 @@ Developed and executed a Python-based workflow to clean and analyze messy datase
 - **Tools Used:** Python (Pandas, NumPy, Jupyter Notebook, Seaborn, Matplotlib).  
 - **Outcome:** Transformed unstructured data into a structured format, providing actionable insights for stakeholders and improving data accessibility for further analysis.
 
-[👉 View Project Repository](#) 
+[👉 View Project Repository](https://github.com/PedroLamattina/weight-lifting-analysis.git) 
 
 ---
 
