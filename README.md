@@ -97,7 +97,7 @@ Conducted statistical analysis to identify market trends and provide actionable 
 - **Tools Used:** Python (NumPy, Pandas, Seaborn, Matplotlib).  
 - **Outcome:** Provided data-backed recommendations to apartment developers and rental agencies.  
 
-[👉 View Project Repository](#)  
+[👉 View Project Repository](https://github.com/PedroLamattina/madrid-appartment-analysis.git)  
 
 ---
 
