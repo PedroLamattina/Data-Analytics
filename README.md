@@ -64,7 +64,6 @@ Designed and implemented a Python-based workflow to connect to relational databa
 ---
 
 ### **4. Messy Data Cleaning and Analysis Weightlifting Competences Case Study** 
-***UNDER CONSTRUCTION***
 
 **Description:**  
 Developed and executed a Python-based workflow to clean and analyze messy datasets, preparing data for insightful visualizations and decision-making in weightlifting sport competence.  
@@ -84,7 +83,6 @@ Developed and executed a Python-based workflow to clean and analyze messy datase
 ---
 
 ### **5. Apartments Case Study** 
-***UNDER CONSTRUCTION***
 
 **Description:**  
 Conducted statistical analysis to identify market trends and provide actionable recommendations in the apartments sector.  
