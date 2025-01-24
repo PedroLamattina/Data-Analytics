@@ -128,6 +128,7 @@ If you'd like to discuss my work or collaborate on a project, feel free to reach
 
 - <a href="[https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/pedro-lamattina/)" target="_blank">Your LinkedIn Profile</a>   
 
+- **LinkedIn:** <a href="https://www.linkedin.com/in/pedro-lamattina/" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/pedro-lamattina</a>
 ---
 
 Thank you for visiting my portfolio! 😊  
