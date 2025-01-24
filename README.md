@@ -45,7 +45,6 @@ Led a case study to analyze chargeback trends and create a reporting system to m
 ---
 
 ### **3. Flats Analysis Case Study** 
-***UNDER CONSTRUCTION***
 
 **Description:**  
 Designed and implemented a Python-based workflow to connect to relational databases, extract data, and perform analyses on real estate trends, focusing on flats’ pricing and demand.  
@@ -59,7 +58,7 @@ Designed and implemented a Python-based workflow to connect to relational databa
 - **Tools Used:** Python (SQLAlchemy, MySQL Connector, Pandas).  
 - **Outcome:** Provided a reliable pipeline for database connectivity and data analysis, facilitating efficient decision-making processes.
 
-[👉 View Project Repository](#)  
+[👉 View Project Repository](https://github.com/PedroLamattina/flat-analysis-case-study.git)  
 
 ---
 
