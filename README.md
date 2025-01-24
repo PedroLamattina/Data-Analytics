@@ -8,7 +8,8 @@ Welcome to my master project portfolio! As a dedicated **Data Analyst**, I speci
 ## **Projects**  
 
 ### **1. Healthcare Analysis for Public Services**  
-***UNDER CONSTRUCTION*** /n
+***UNDER CONSTRUCTION***
+
 **Description:**  
 A team final project focused on analyzing healthcare datasets to identify areas for improvement in public healthcare services.  
 
@@ -24,7 +25,9 @@ A team final project focused on analyzing healthcare datasets to identify areas 
 
 ---
 
-### **2. Chargeback Transaction Analysis**  
+### **2. Chargeback Transaction Analysis** 
+***UNDER CONSTRUCTION***
+
 **Description:**  
 Led a case study to analyze chargeback trends and create a reporting system to minimize financial losses.  
 
@@ -41,7 +44,8 @@ Led a case study to analyze chargeback trends and create a reporting system to m
 
 ---
 
-### **3. Flats Analysis Case Study**  
+### **3. Flats Analysis Case Study** 
+***UNDER CONSTRUCTION***
 
 **Description:**  
 Designed and implemented a Python-based workflow to connect to relational databases, extract data, and perform analyses on real estate trends, focusing on flats’ pricing and demand.  
@@ -59,7 +63,8 @@ Designed and implemented a Python-based workflow to connect to relational databa
 
 ---
 
-### **4. Messy Data Cleaning and Analysis Weightlifting Competences Case Study**  
+### **4. Messy Data Cleaning and Analysis Weightlifting Competences Case Study** 
+***UNDER CONSTRUCTION***
 
 **Description:**  
 Developed and executed a Python-based workflow to clean and analyze messy datasets, preparing data for insightful visualizations and decision-making in weightlifting sport competence.  
@@ -78,7 +83,9 @@ Developed and executed a Python-based workflow to clean and analyze messy datase
 
 ---
 
-### **5. Apartments Case Study**  
+### **5. Apartments Case Study** 
+***UNDER CONSTRUCTION***
+
 **Description:**  
 Conducted statistical analysis to identify market trends and provide actionable recommendations in the apartments sector.  
 
