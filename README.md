@@ -115,7 +115,7 @@ Developed a **Python**-based analytical pipeline to analyze sales data from shop
 - **Tools Used:** Python (Pandas, Numpy).  
 - **Outcome:** Delivered actionable insights on shopping center performance and customer trends, assisting stakeholders in strategic decision-making.
 
-[👉 View Project Repository](#)
+[👉 View Project Repository](https://github.com/PedroLamattina/mall-center-analysis.git)
 
 --
 
